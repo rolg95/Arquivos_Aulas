@@ -29,11 +29,6 @@ O repositório está organizado da seguinte maneira:
 2. Navegue até o diretório correspondente à aula.
 3. Faça o download dos arquivos necessários.
 
-## 📄 Licença
-
-Este repositório está sob a [Licença MIT](LICENSE).
-
-
 ---
 
 🎓 Espero que este repositório seja útil para seus alunos e facilite o processo de aprendizagem! 🚀
