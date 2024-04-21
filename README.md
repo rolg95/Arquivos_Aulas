@@ -31,4 +31,4 @@ O repositório está organizado da seguinte maneira:
 
 ---
 
-🎓 Espero que este repositório seja útil para seus alunos e facilite o processo de aprendizagem! 🚀
+🎓 Espero que este repositório seja útil e facilite o processo de aprendizagem! 🚀
